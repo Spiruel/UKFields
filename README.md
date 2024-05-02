@@ -30,8 +30,8 @@ The availability of accurate field boundary data is of high importance, especial
 ### Getting Started
 To access the ukfields dataset in Google Earth Engine, use the following asset path:
 
-`var ukfields = ee.ImageCollection('projects/earthblox/ukfields');`
+`var ukfields = ee.ImageCollection('users/spiruel/ukfields');`
 
-You can also download a local .gpkg copy [here](https://gws-access.jasmin.ac.uk/public/sensecdt/eesjb/ukfields.gpkg).
+You can also download a copy from [Zenodo](https://gws-access.jasmin.ac.uk/public/sensecdt/eesjb/ukfields.gpkg).
 
 For more information on accessing and working with the dataset, feel free to contact the authors or raise an issue in this Github repository.
