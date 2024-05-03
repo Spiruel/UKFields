@@ -20,6 +20,6 @@ To access the ukfields dataset in Google Earth Engine, use the following asset p
 
 `var ukfields = ee.ImageCollection('users/spiruel/ukfields');`
 
-You can also download a [fiboa](https://fiboa.org/) GeoParquet from [Zenodo]([https://gws-access.jasmin.ac.uk/public/sensecdt/eesjb/ukfields.gpkg](https://zenodo.org/records/11110206)).
+You can also download a [fiboa](https://fiboa.org/) GeoParquet from [Zenodo](https://zenodo.org/records/11110206).
 
 For more information on accessing and working with the dataset, feel free to contact the authors or raise an issue in this Github repository.
