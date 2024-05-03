@@ -2,6 +2,8 @@
   <img src="ukfields.jpeg" alt="ukfieldslogo" width="300"/>
 </p>
 
+### [View UKFields in your browser here](https://spiruel.users.earthengine.app/view/uk-fields)
+
 # UK Fields
 
 The ukfields dataset is a publicly accessible Earth Engine asset of automatically delineated field boundaries spanning England, Wales, Scotland, and Northern Ireland. 
