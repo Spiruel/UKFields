@@ -4,6 +4,8 @@
 
 ### [View UKFields in your browser here](https://spiruel.users.earthengine.app/view/uk-fields)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11110206.svg)](https://doi.org/10.5281/zenodo.11110206)
+
 # UK Fields
 
 The ukfields dataset is a publicly accessible Earth Engine asset of automatically delineated field boundaries spanning England, Wales, Scotland, and Northern Ireland. 
