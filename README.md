@@ -22,7 +22,7 @@ The availability of accurate field boundary data is of high importance, especial
 ### Getting Started
 To access the ukfields dataset in Google Earth Engine, use the following asset path:
 
-`var ukfields = ee.ImageCollection('users/spiruel/ukfields');`
+`var ukfields = ee.FeatureCollection('users/spiruel/ukfields');`
 
 You can also download a [fiboa](https://fiboa.org/) GeoParquet from [Zenodo](https://zenodo.org/records/11110206).
 
