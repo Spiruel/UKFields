@@ -2,7 +2,7 @@ from osgeo import gdal
 gdal.SetConfigOption('GDAL_VRT_ENABLE_PYTHON', 'YES')
 gdal.UseExceptions()
 
-from merge import setup_environment, get_vrt_metadata, generate_contours, merge_contours
+from utils import setup_environment, get_vrt_metadata, generate_contours, merge_contours
 
 if __name__ == "__main__":
     out_name = "demo.vrt"
